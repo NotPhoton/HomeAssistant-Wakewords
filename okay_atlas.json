@@ -1,7 +1,7 @@
 {
     "type": "micro",
     "wake_word": "Okay Atlas",
-    "author": "NotPhoton",
+    "author": "Tater Totterson",
     "website": "https://github.com/TaterTotterson/microWakeWord-Trainer-Nvidia-Docker.git",
     "model": "okay_atlas.tflite",
     "trained_languages": ["en"],
